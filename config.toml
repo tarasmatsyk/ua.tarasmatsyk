@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     twitter = "tarasmatsyk"
     linkedin = "tarasmatsyk"
     github = "tarasmatsyk"
+    facebook = "tamatsyk"
     email = "hello@tarasmatsyk.com"
     googleTagManager = ""
     highlightJS = true
@@ -34,10 +35,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Хто я"
     url  = "/#about"
     weight = 1
-[[menu.main]]
-    name = "Тут я пишу"
-    url  = "/#blog"
-    weight = 2
+# [[menu.main]]
+#     name = "Тут я пишу"
+#     url  = "/#blog"
+#     weight = 2
 [[menu.main]]
     name = "Підписатися"
     url  = "/#subscribe"

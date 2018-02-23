@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
 {{ partial "about.html" . }}
+{{if gt (len (where .Data.Pages "Section" "blog")) 0}}
 {{ partial "blog.html" . }}
+{{ end }}
 {{ partial "contact.html" . }}
 {{ partial "footer.html" . }}
