@@ -1,4 +1,44 @@
-baseURL = "https://ua.tarasmatsyk.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-theme-lean-launch-page"
+title = "Osprey Example Site"
+baseURL = "https://ua.tarasmatsyk.com"
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[Params]
+    tagline = "Привіт, мене звати Тарас"
+    author = "Тарас Мацик"
+    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    logoBig = "/images/logo.png"
+    logoBigDes = ["Писака.","Експерементатор.","Ще той засранець."]
+    logoSmall = "/images/logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/logo.png"
+    twitter = "tarasmatsyk"
+    linkedin = "tarasmatsyk"
+    github = "tarasmatsyk"
+    email = "hello@tarasmatsyk.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = false
+    credit = false
+    customCSS = true
+    cacheBustCSS = false
+    cacheBustJS = false
+    mailchimp = true
+
+[[menu.main]]
+    name = "Хто я"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Тут я пишу"
+    url  = "/#blog"
+    weight = 2
+[[menu.main]]
+    name = "Підписатися"
+    url  = "/#subscribe"
+    weight = 3
