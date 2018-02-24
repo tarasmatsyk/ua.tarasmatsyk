@@ -1,7 +1,7 @@
         </main>
         <footer class="row middle-xs center-xs">
-            {{ if .Site.Params.github }}
-            <div class="col-xs-3 col-md-2"><a target="_blank" href="https://github.com/{{ .Site.Params.github }}">GitHub</a></div>
+            {{ if .Site.Params.email }}
+            <div class="col-xs-3 col-md-2"><a target="_blank" href="mailto:{{ .Site.Params.email }}">Напиши мені</a></div>
             {{ end }}
             {{ if .Site.Params.facebook }}
             <div class="col-xs-3 col-md-2"><a target="_blank" href="https://facebook.com/{{ .Site.Params.facebook }}">Facebook</a></div>

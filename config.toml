@@ -1,4 +1,4 @@
-title = "Osprey Example Site"
+title = "Тарас ПРО"
 baseURL = "https://ua.tarasmatsyk.com"
 languageCode = "en-US"
 config = "config.toml"
@@ -19,7 +19,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     opengraphImage = "/images/logo.png"
     twitter = "tarasmatsyk"
     linkedin = "tarasmatsyk"
-    github = "tarasmatsyk"
     facebook = "tamatsyk"
     email = "hello@tarasmatsyk.com"
     googleTagManager = ""
