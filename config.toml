@@ -4,7 +4,7 @@ languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-114670279-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
