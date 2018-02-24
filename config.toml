@@ -11,9 +11,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [Params]
     tagline = "Привіт, мене звати Тарас"
     author = "Тарас Мацик"
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    description = "Писака. Експерементатор. Ще той гівнюк."
+    logoBigDes = ["Писака.","Експерементатор.","Ще той гівнюк."]
     logoBig = "/images/logo.png"
-    logoBigDes = ["Писака.","Експерементатор.","Ще той засранець."]
     logoSmall = "/images/logo.png"
     favicon = "favicon.ico"
     opengraphImage = "/images/logo.png"
@@ -41,4 +41,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Підписатися"
     url  = "/#subscribe"
-    weight = 3
+    weight = 2
