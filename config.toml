@@ -5,7 +5,7 @@ config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = "UA-114670279-1"
-disqusShortname = ""
+disqusShortname = "ua-tarasmatsyk"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Params]
