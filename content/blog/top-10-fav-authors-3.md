@@ -1,0 +1,48 @@
+---
+title: "Мій Топ 10 Авторів (ч/3)"
+date: 2018-03-03T12:21:23+02:00
+draft: true
+---
+
+
+Хей-йо, малятка, остання частина про письменників від яких я поті~~к~~в.
+
+Нагадаю ще разок, почитати попередній пост можна тут: 
+[Мій Топ 10 Авторів (ч/2)](https://ua.tarasmatsyk.com/blog/top-10-fav-authors-2/)
+
+Нумерацію продовжу із 7, як і попереднього разу.
+
+## 7. [Austin Kleon](https://www.amazon.com/Austin-Kleon/e/B002HDCKJ2/ref=sr_tc_2_0?qid=1520072371&sr=8-2-ent)
+
+![Austin Kleon](https://images-na.ssl-images-amazon.com/images/I/61dSM74wF9L._UX250_.jpg "Austin Kleon")
+
+### Чому? Хто це? За що?
+
+Остін - це бомба, це книги 2020 року і суцільне задоволення. Про Клеона я не знаю ні0рена,
+але його книги я впізнаю по обкладинці. Серйозно, наприклад:
+
+![Steal Like an Artist](https://images-na.ssl-images-amazon.com/images/I/51fIZsUhrpL._SY498_BO1,204,203,200_.jpg "Steal Like an Artist")
+
+Тепер і ви впізнаєте його книги, обкладинки всі дуже схожі, дизайн книги просто ММи-ми-ми,
+і контенту приблизно на 200-300 сторінок. Першу я прочитав за 2 години, другу за 3.
+По-перше, тому що читати дуже легко, а по-друге, тому що структуровано і коротко.
+
+
+### За що?
+Якщо я і напишу книги, то вона буде такою як у Остіна, це другий приклад (після професійного дизайнера),
+коли я побачив книгу і зрозумів - це ідеальний формат, це як відео на ютубі на 5хв, 
+це як пост на фб в 70 слів із картинкою, це як 15 хештегів на інсті, це як чізбургер,
+не більше і не менше, те що потрібно.
+Остіна для мене приклад людини, який "викупив" ідеальний формат видавництва. 
+
+## 8. [Gary Vaynerchuk](https://www.amazon.com/Gary-Vaynerchuk/e/B001JP7NBE/ref=dp_byline_cont_book_1)
+
+![Gary Vaynerchuk](https://images-na.ssl-images-amazon.com/images/I/51N0WINeD0L._UX250_.jpg "Gary Vaynerchuk")
+
+### Чому? Хто це? За що?
+
+## 9. [Nassim Nicholas Taleb](https://www.amazon.com/Nassim-Nicholas-Taleb/e/B000APVZ7W/ref=sr_ntt_srch_lnk_1?qid=1520072976&sr=1-1)
+
+![Nassim Nicholas Taleb](https://images-na.ssl-images-amazon.com/images/I/513Q6HNMzaL._UX250_.jpg "Nassim Nicholas Taleb")
+
+### Чому? Хто це? За що?
