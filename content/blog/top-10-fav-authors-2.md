@@ -58,7 +58,7 @@ draft: false
 "Start With Why", "Why Leaders Eat Last" і моя улюблена, але не Саймона - "Turn Your Ship Around"
 
 
-## 7. [Jason Fried](https://www.amazon.com/Jason-Fried/e/B002MQ13PQ/ref=sr_ntt_srch_lnk_1?qid=1519725175&sr=1-1)
+## 6. [Jason Fried](https://www.amazon.com/Jason-Fried/e/B002MQ13PQ/ref=sr_ntt_srch_lnk_1?qid=1519725175&sr=1-1)
 
 ![Jason Fried](https://images-na.ssl-images-amazon.com/images/I/61ptq-euwzL._UX250_.jpg "Jason Fried")
 
