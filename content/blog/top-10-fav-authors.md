@@ -83,13 +83,13 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Я планую дочитати решту і перечитати цей список ще раз, дуже корисна література для побуди здорових стосунків.
 
-## 3. [Rollo Thomassi](https://www.amazon.com/Rollo-Tomassi/e/B00J2165RA/ref=sr_ntt_srch_lnk_1?qid=1519576414&sr=8-1)
+## 3. [Rollo Tomassi](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/top-10-fav-authors/rollo-tomassi.jpg)
 
-![Rollo Tomassi](https://pbs.twimg.com/profile_images/908074834441117697/R_U5QQ0X_400x400.jpg "Rollo Tomassi")
+![Rollo Tomassi](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/top-10-fav-authors/rollo-tomassi.jpg "Rollo Tomassi")
 
 ### Чому? Хто це? За що?
 
-Роло - це псевдонів Александра Кортеза, і містер А не дуже хороший письменник.
+Роло - психолог та колишній рок-музикант, який довго займався вивченням поведінкової психології чоловіків та жінок.
 Можливо його ідеї ще не настоялись достатньо на моїх поличках, але він швидко зайшов у топ.
 Всього у нього 3 книги і після перших двох я відкинув багато літератури, що читав до цього.
 Чому відкинув? Це той ресурс, який справді працює, як мінімум для мене і я майже повністю розділяю позицію письменника.
