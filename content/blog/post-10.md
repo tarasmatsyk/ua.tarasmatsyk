@@ -17,7 +17,7 @@ draft: false
 
 # Amazon: The Everything Store
 
-![The everything store](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/post-10/the-everything-store.jpg "The everything store")
+![The everything store](https://s26.postimg.cc/5sa2py4jd/the-everything-store.jpg "The everything store")
 
 
 _Про що книга?_
@@ -60,7 +60,7 @@ _Що запам"яталося?_
 
 # Nassim Taleb: Antifragile
 
-![Antifragile](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/post-10/antifragile.jpg "Antifragile")
+![Antifragile](https://s26.postimg.cc/y55kgdveh/antifragile.jpg "Antifragile")
 
 
 _Про що книга?_
@@ -82,7 +82,7 @@ _Що запам"яталося?_
 
 # Gary V: Crushing It
 
-![Crushing It](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/post-10/crushing-it.jpg "Crushing It")
+![Crushing It](https://s26.postimg.cc/grva1jfix/crushing-it.jpg "Crushing It")
 
 
 _Про що книга?_
@@ -110,7 +110,7 @@ _Що запам"яталося?_
 
 # Rollo Tomassi: Positive Masculinity
 
-![Positive Masculinity](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/post-10/positive-masculinity.jpg "Positive Masculinity")
+![Positive Masculinity](https://s26.postimg.cc/8md83d44p/positive-masculinity.jpg "Positive Masculinity")
 
 
 _Про що книга?_

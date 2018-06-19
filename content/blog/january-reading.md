@@ -18,7 +18,7 @@ draft: false
 ### Алгоритми, за якими ви хочете жити
 
 
-![Algorithms To Live By](https://images-na.ssl-images-amazon.com/images/I/4181ApHes8L._SX325_BO1,204,203,200_.jpg "Algorithms to Live By")
+![Algorithms To Live By](https://s26.postimg.cc/wtxt7s2bt/4181_Ap_Hes8_L._SX325_BO1_204_203_200.jpg "Algorithms to Live By")
 
 #### *Про що книга?*
 Автор розглядає життєві приклади з точки зору математика і намагається знайти оптимальні рішення застосовуючи знайомі теореми.
@@ -57,7 +57,7 @@ draft: false
 ### Crush It!
 
 
-![Crush It](https://images-na.ssl-images-amazon.com/images/I/51jTTziN3dL._SX328_BO1,204,203,200_.jpg "Crush It")
+![Crush It](https://s26.postimg.cc/a58m8dda1/crush-it.jpg "Crush It")
 
 
 #### *Про що книга?*
@@ -106,7 +106,7 @@ draft: false
 ### 50 Cent: From Pieces to Weight!
 
 
-![From Pieces to Weight](https://images-na.ssl-images-amazon.com/images/I/414-8IslOiL._SX327_BO1,204,203,200_.jpg "From Pieces to Weight")
+![From Pieces to Weight](https://s26.postimg.cc/g66b5ka7t/from-pieces-to-weight.jpg "From Pieces to Weight")
 
 
 Ви вже мабуть зрозуміли фішку чи ще ні? Добре, я тоді відкриюсь, як двері в супермаркет (автоматично типу).

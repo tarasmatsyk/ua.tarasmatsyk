@@ -147,7 +147,7 @@ https://www.mayoclinic.org/diseases-conditions/obesity/in-depth/bmi-calculator/i
 14) Повернемося до абстракції. Що значить красива? Спеціально підібраний приклад знизу.
 Картинка двох обличь і тепер можете визначитись самі хто із них симпатичніший, а тепер прикиньте наскільки ваше обличчя відповідає першій картинці. Наскільки пропорції схожі від 1 до 10?
 
-![example](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/post-8/Screenshot+from+2018-05-27+22-16-22.png)
+![example](https://s26.postimg.cc/qp6aumhzt/girls-face.png)
 
 Важливо: наступні люди не дадуть адекватної оцінки:
 

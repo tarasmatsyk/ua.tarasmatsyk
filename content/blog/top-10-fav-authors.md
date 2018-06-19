@@ -20,9 +20,9 @@ draft: false
 і планую поповнити списочок. Вони по сортовані по мірі вподобань контенту. 
 Реді? Стеді? Нє, ну го
 
-## 1. [Eric Thomas](https://www.amazon.com/Eric-Thomas/e/B007CGFU7S)
+## 1. Eric Thomas
 
-![Eric Thomas](https://images-na.ssl-images-amazon.com/images/I/71QNsGtvm2L._UX250_.jpg "Eric Thomas")
+![Eric Thomas](https://s26.postimg.cc/buhpgj8ft/71_QNs_Gtvm2_L._UX250.jpg "Eric Thomas")
 
 ### Чому? Хто це? За що?
 
@@ -55,9 +55,9 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 цей чувак взяв і зробив свій сраний університет, скільки таких письменників ви ще знаєте?
 
 
-## 2. [Allan Pease](https://www.goodreads.com/author/show/75844.Allan_Pease)
+## 2. Allan Pease
 
-![Allan Pease](https://images.gr-assets.com/authors/1252658301p5/75844.jpg "Allan Pease")
+![Allan Pease](https://s26.postimg.cc/6vu71yuc9/75844.jpg "Allan Pease")
 
 Хоча... Правильніше було б написати Алан та Барбара або Барбара та Алан Піс.
 Майже усі книги написані подружжям і це єдиний мені відомий приклад такого крутого симбіозу.
@@ -83,9 +83,9 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Я планую дочитати решту і перечитати цей список ще раз, дуже корисна література для побуди здорових стосунків.
 
-## 3. [Rollo Tomassi](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/top-10-fav-authors/rollo-tomassi.jpg)
+## 3. Rollo Tomassi
 
-![Rollo Tomassi](https://s3.eu-central-1.amazonaws.com/tarasmatsyk-ua/top-10-fav-authors/rollo-tomassi.jpg "Rollo Tomassi")
+![Rollo Tomassi](https://s26.postimg.cc/n5kd4ss4p/rollo-tomassi.jpg "Rollo Tomassi")
 
 ### Чому? Хто це? За що?
 
