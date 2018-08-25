@@ -60,6 +60,9 @@
         {{ if .Site.Params.highlightJS }}<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/github.min.css">{{ end }}
         {{ if .Site.GoogleAnalytics }}{{ template "_internal/google_analytics.html" . }}{{ end }}
         {{ if .Site.Params.customCSS }}{{ partial "css.html" . }}{{ end }}
+        <!-- custom -->
+        {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+        <link rel="stylesheet" href="{{ $style.Permalink }}">
     </head>
 
     <body>
