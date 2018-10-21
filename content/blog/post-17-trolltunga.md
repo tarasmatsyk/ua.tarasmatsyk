@@ -35,5 +35,5 @@ draft = false
 ![Trolltunga](https://i.postimg.cc/NGNVK41V/IMG-4962.jpg)
 
 Відео тут:
-[![Norway: Trolltunga](http://img.youtube.com/vi/AVrysOBHA54/0.jpg)](http://www.youtube.com/watch?v=AVrysOBHA54 "Norway: Trolltunga")
+[![Norway: Trolltunga](https://img.youtube.com/vi/AVrysOBHA54/0.jpg)](https://www.youtube.com/watch?v=AVrysOBHA54 "Norway: Trolltunga")
 
