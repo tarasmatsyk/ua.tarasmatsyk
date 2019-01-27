@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url  = "/#about"
     weight = 1
 [[menu.main]]
-    name = "Тут я пишу"
+    name = "Тут пишу"
     url  = "/#blog"
     weight = 2
 [[menu.main]]
