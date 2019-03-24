@@ -1,7 +1,7 @@
 +++
 title = "12 правил життя і Майстерність за Гріном"
 date = 2019-03-21T15:26:34+02:00
-draft = true
+draft = false
 +++
 
 Останній мій рідінг ліст був у [листопаді](https://ua.tarasmatsyk.com/blog/post-18-2018-books-review/).
