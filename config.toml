@@ -14,7 +14,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     description = "Писака. Експериментатор. Ще той гівнюк."
     logoBigDes = ["Писака.","Експериментатор.","Ще той гівнюк."]
     favicon = "/images/favicon.ico"
-    opengraphImage = "/images/logo.png"
     twitter = "tarasmatsyk"
     facebook = "tamatsyk"
     email = "tamatsyk@gmail.com"

@@ -1,9 +1,10 @@
 +++
 title = "Тату: коли ти любиш, щоб було боляче"
 date = 2019-05-19T13:59:02+03:00
-description = ""
+description = "test"
 draft = false
 keywords = [ "тату", "як роблять", "боляче", "доглядати", "відчуття" ]
+og_image = "https://i.postimg.cc/9QLKMvw8/tattoo.jpg"
 +++
 
 [![tattoo.jpg](https://i.postimg.cc/9QLKMvw8/tattoo.jpg)](https://postimg.cc/5XFnKK3L)
