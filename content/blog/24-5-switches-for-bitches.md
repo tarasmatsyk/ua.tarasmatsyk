@@ -2,7 +2,7 @@
 title = "5 характеристик того, хто тобі не передзвонить"
 date = 2020-01-19T10:24:26+02:00
 description = ""
-draft = true
+draft = false
 +++
 
 [![EBBB7gd-UYAA9-Fz-A.jpg](https://i.postimg.cc/rmBtpf4V/EBBB7gd-UYAA9-Fz-A.jpg)](https://postimg.cc/mzSrXNVJ)
