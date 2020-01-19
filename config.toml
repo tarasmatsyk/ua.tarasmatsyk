@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Params]
     tagline = "Привіт, мене звати Тарас"
-    author = "Тарас Мацик"
+    author = "Тарас"
     description = "Писака. Експериментатор. Ще той гівнюк."
     logoBigDes = ["Писака.","Експериментатор.","Ще той гівнюк."]
     favicon = "/images/favicon.ico"
